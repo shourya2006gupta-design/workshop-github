@@ -8,8 +8,8 @@ An interactive web-based fireworks animation program built for the Git & GitHub 
 
 ## 👋 About This Project
 
-**Created by:** `[Your Name]`  
-**GitHub:** `[Your GitHub Username]`
+**Created by:** `Shourya Gupta`  
+**GitHub:** `shourya2006gupta-design`
 
 `[Write your own description of your project here.]`
 
